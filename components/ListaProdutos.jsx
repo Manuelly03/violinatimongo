@@ -1,6 +1,4 @@
 import { useEffect, useState } from 'react'
-
-// Ajuste a porta e o caminho para os da turma
 const API_URL = 'http://localhost:3000/produtos'
 
 export default function ListaProdutos() {
